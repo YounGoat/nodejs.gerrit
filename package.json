@@ -1,0 +1,28 @@
+{
+    "bin": {},
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "gerrit",
+    "version": "0.0.1",
+    "main": "index.js",
+    "keywords": [
+        "gerrit"
+    ],
+    "homepage": "https://github.com/YounGoat/nodejs.gerrit",
+    "description": "Gerrit API based on offical REST API",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/nodejs.gerrit.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
