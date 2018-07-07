@@ -5,15 +5,16 @@ __Gerrit API based on offical REST API__
 
 ##  Description
 
-##	ToC
+Gerrit API based on official REST API.
 
-*	[Get Started](#get-started)
-*	[API](#api)
-* 	[Examples](#examples)
-*	[Why gerrit](#why-gerrit)
-*	[Honorable Dependents](#honorable-dependents)
-*	[About](#about)
-*	[References](#references)
+##  Table of Contents
+
+* [Links](#links)
+* [Get Started](#get-started)
+	* [Class](#class)
+	* [Standalone Function](#standalone-function)
+* [API](#api)
+* [Examples](#examples)
 
 ##	Links
 
